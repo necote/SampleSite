@@ -22,8 +22,8 @@ title: Sample Site for GCDI Workshop
 #email: your-email@example.com Note: I didn't want to display an email, so I just commented it out. I could have also deleted this line entirely!
 description: >- # this means to ignore newlines until "baseurl:"
   This is a sample site made by Nicole Cote for the GitHub: Part II Spring 2023 workshop at The Graduate Center, CUNY.  💡Hint: edit this footer in the _config.yml file. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/SampleSite" # the subpath of your site, e.g. /blog
+url: "https://necote.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: Note: I didn't want to display a twitter name, so I just commented it out. I could have also deleted this line entirely!
 github_username: necote #add your own github name here - or don't! It's up to you!
 
