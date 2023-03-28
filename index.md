@@ -8,7 +8,7 @@ list_title: Some Blog Posts
 
 This is a sample academic website using Jekyll and GitHub pages designed for our workshop. Navigate to different pages for hints and tips on creating your own static site. 
 
-This project is inspired in part by Miriam Posner's notion of "[How Did They Make That](https://archive.org/details/howdidtheymakethat)," Amanda Visconti's *Programming Historian* [post](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages), and the official Jekyll [docs](https://jekyllrb.com/docs/). If you've ever looked at a scholar's website made with Jekyll and wondered how it's done--this workshop is for you!
+This project is inspired in part by Miriam Posner's notion of "[How Did They Make That](https://archive.org/details/howdidtheymakethat)," Amanda Visconti's *Programming Historian* [post](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages), and the official Jekyll [docs](https://jekyllrb.com/docs/). If you've ever looked at a scholar's website made with Jekyll and wondered how it's done--this workshop is for you! Start with the [About](https://necote.github.io/SampleSite/about/) page for instructions on how this resource might be best utilized.
 
 <br>
 
