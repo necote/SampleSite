@@ -21,7 +21,7 @@ Follow the instructions below to make your own site using this one as a model. A
 
 To view the Markdown files on GitHub to copy and work from (recommended): 
 
-1. Go to this folder on GitHub (which is where the code for this site lives!)
+1. Go to [this folder](https://github.com/necote/SampleSite) on GitHub (which is where the code for this site lives!)
 2. Click to open the particular Markdown file you want to view (for example, the one for this page is called `about.md`)
    - Note: you'll see that GitHub automatically displays these as a webpage, which is nice for reading, but not as helpful for copying the Markdown syntax, so:
 3. At the top-right of the Markdown file you'll see a button called "Raw" -- click that
