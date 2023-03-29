@@ -23,9 +23,10 @@ There are many comprehensive guides on Jekyll. Here are a few recommendations:
 
 This site is made with the default Jekyll theme called [Minima](https://github.com/jekyll/minima). Changing your theme is great next step for building skills and style 💅!  
 
-- Looking for themes? There are a number of galleries out there with free and paid options. You might refer to this GitHub Pages specific [theme guide](https://jekyllthemes.io/github-pages-themes) as well as this comprehensive [listing](https://jekyll-themes.com/)   
+- Looking for themes? There are a number of galleries out there with free and paid options. You might refer to this GitHub Pages specific [theme guide](https://jekyllthemes.io/github-pages-themes) as well as this comprehensive [listing](https://jekyll-themes.com/). This [list](https://cloudcannon.com/blog/free-jekyll-themes-for-2022/) of free themes by cloudcannon also has a number of great options.    
 - And, there are a number of free themes suitable for academics. [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) is simple but clean. And, [academic pages](https://academicpages.github.io/) and [al-folio](https://github.com/alshedivat/al-folio) are designed specifically with the scholar profile in mind
-- Jekyll's [docs](https://jekyllrb.com/docs/themes/) on themes is a good place to start for implementation
+- Free themes often have a repo on GitHub that instruct you how to install them
+- Jekyll's [docs](https://jekyllrb.com/docs/themes/) on themes is another good place to start for implementation
 - GitHub's guide on ["Adding a Theme to Your GitHub Pages..."](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll) is also helpful  
 
 ## Markdown
